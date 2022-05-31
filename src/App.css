@@ -1,0 +1,58 @@
+html {
+    height: 100%;
+  }
+  .movieList {
+    text-align: center;
+    background-color: #EFEFEF;
+    width: 50vw;
+  }
+  h1 {
+    text-align: center;
+    height: 7%;
+    padding: 0px;
+    margin: 0px;
+  }
+  ol {
+    text-align: left;
+    font-size: 30px;
+    background-color: #EFEFEF;
+    width: 80%;
+    position: relative;
+    left: 7%
+  }
+  .listItem {
+    background-color: goldenrod;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  .drop {
+    background-color: wheat;
+  }
+  .menu {
+    background-color: lightcyan;
+  }
+  .inputBox {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkblue;
+  }
+  button {
+    position: relative;
+    right: 0%;
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  
+  
+  hr {
+    background-color: black;
+  }
+  .titleHeader {
+    width: 35vw;
+  }
+  
+  .infoText {
+    font-size: 30px;
+  }
